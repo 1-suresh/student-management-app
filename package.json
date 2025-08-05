@@ -1,8 +1,8 @@
 {
-  "name": "menu-mongo",
+  "name": "react3",
   "version": "1.0.0",
   "description": "",
-  "main": "app3.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "express": "^5.1.0",
     "mongoose": "^8.17.0",
-    "node": "^22.18.0"
+    "nodemon": "^3.1.10",
+    "pug": "^3.0.3"
   }
 }
