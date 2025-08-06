@@ -54,8 +54,8 @@ npm install
 👉 http://localhost:3000
 
 ## ✍️ Screens
-Home page: Lists all students
-
+Home page: 
++ Lists all students
 + Add new student
 + Edit existing student
 + Delete a student
