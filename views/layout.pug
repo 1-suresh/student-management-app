@@ -1,17 +1,12 @@
 doctype html
 html
   head
-    title Employee Management System
-    meta(charset="UTF-8")
-    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title Student App
     link(rel="stylesheet", href="/style.css")
   body
     header
-      h1 Employee Management System
-      hr
-
+      h1 Student Management
+      nav
+        a.button(href="/") Home
+        a.button.primary(href="/new") Add Student
     block content
-
-    footer
-      hr
-      p © #{new Date().getFullYear()} Employee CRUD App. All rights reserved.

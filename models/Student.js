@@ -5,5 +5,4 @@ const studentSchema = new mongoose.Schema({
   age: Number,
   course: String
 });
-
 module.exports = mongoose.model('Student', studentSchema);
