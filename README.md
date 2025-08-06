@@ -15,6 +15,12 @@ A full-stack web application to manage student records using Node.js, Express, M
 - **Frontend**: Pug (template engine), HTML, CSS
 - **Database**: MongoDB (via Mongoose)
 
+## 📷 Screenshot
+<img width="1868" height="801" alt="Screenshot 2025-08-06 212225" src="https://github.com/user-attachments/assets/b2adaec2-7702-4ba5-b880-0560e1c9db6a" />
+<br />
+<br />
+<img width="1625" height="672" alt="Screenshot 2025-08-06 212240" src="https://github.com/user-attachments/assets/e939b969-3d8b-4b15-b6d2-256301ee175f" />
+
 ## 📁 Project Structure
 
 student-crud-node-express/<br />
