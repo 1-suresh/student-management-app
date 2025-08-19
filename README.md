@@ -41,7 +41,7 @@ student-crud-node-express/<br />
 
 Make sure you have Node.js and MongoDB installed.
 
-git clone https://github.com/your-username/student-crud-node-express.git
+git clone https://github.com/suresh-datt-joshi/student-crud-node-express.git
 cd student-crud-node-express
 npm install
 
