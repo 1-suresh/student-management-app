@@ -23,7 +23,7 @@ A full-stack web application to manage student records using Node.js, Express, M
 
 ## 📁 Project Structure
 
-student-crud-node-express/<br />
+student-management-app/<br />
 ├── models/<br />
 │ └── Student.js # Mongoose schema<br />
 ├── public/<br />
@@ -41,8 +41,8 @@ student-crud-node-express/<br />
 
 Make sure you have Node.js and MongoDB installed.
 
-git clone https://github.com/suresh-datt-joshi/student-crud-node-express.git
-cd student-crud-node-express
+git clone https://github.com/suresh-datt-joshi/student-management-app.git
+cd student-management-app
 npm install
 
 ## ⚙️ Usage
